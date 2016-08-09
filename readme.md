@@ -2,7 +2,7 @@
 
 > Toggle the macOS [Dark Mode](http://www.macworld.co.uk/how-to/mac-software/turn-on-yosemites-dark-mode-on-mac-3534690/) from the command-line
 
-Requires macOS 10.10 or later.
+Requires macOS 10.9 or later.
 
 **Ensure `System Preferences` → `General` → `Use dark menu bar and Dock` is unchecked.**
 
